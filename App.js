@@ -32,7 +32,7 @@ function App() {
         </div>
         {/* my end goal */}
         <h2>My End Goal Tool Kit</h2>
-        <div className="fullStackIcons">
+        <div className="endGoalIcons">
           <FaPython style={{ color: 'blue' }} />
           <SiMysql style={{ color: 'steelblue', size:'80px' }} />
           <DiMongodb style={{ color: 'green' }} />
